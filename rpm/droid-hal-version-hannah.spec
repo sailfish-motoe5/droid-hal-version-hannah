@@ -1,11 +1,11 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device ocean
+%define device hannah
 %define vendor motorola
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Motorola
-%define device_pretty moto g7 power
+%define device_pretty moto e5 plus
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
